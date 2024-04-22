@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Blockchain integration with Web Apps**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio2002.netlify.app](https://mohit07-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohit07-portfolio.netlify.app/](https://mohit07-portfolio.netlify.app/)
 
 - 💬 Ask me about **ReactJS or any tech related stuff**
 
